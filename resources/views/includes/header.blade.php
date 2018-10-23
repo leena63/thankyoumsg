@@ -16,7 +16,10 @@
                         <a class="nav-link" href="/"><b>Home</b> <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/about"><b>about</b></a>
+                        <a class="nav-link" href="/about"><b>About</b></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/contact"><b>Contact</b></a>
                     </li>
                 </ul>
             </div>
