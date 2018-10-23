@@ -9,14 +9,14 @@
                 <div class="row">
                     <div class="col-md-6">
                         <div class="form-group">
-                            <label for="Email_Id">Email</label>
-                            <input name="Email" type="email" class="form-control" id="Email" placeholder="name@example.com">
+                            <label for="name">Name</label>
+                            <input name="name" type="text" class="form-control" id="name">
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="form-group">
-                            <label for="name">Name</label>
-                            <input name="name" type="text" class="form-control" id="name">
+                            <label for="Email_Id">Email</label>
+                            <input name="Email" type="email" class="form-control" id="Email" placeholder="name@example.com">
                         </div>
                     </div>
                 </div>

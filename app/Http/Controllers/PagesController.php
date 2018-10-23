@@ -21,6 +21,7 @@ class PagesController extends Controller
     function store(Request $request)
     {
         $name = $request->name;
+
         return redirect()->route('thankyou', ['name' => $name]);
     }
 
